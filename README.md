@@ -6,28 +6,28 @@ These files are for the purposes of confirming the completion of the following c
 
 A **Bash** script to generate a random number to guess, and tracking of scores through an **SQL** database.
 
-- Files: `number_guess.sh` and `number_guess.sql`
+- Files: [number_guess.sh](./number_guess.sh) and [number_guess.sql](./number_guess.sql)
 
 ## "World Cup Database"
 
 Scripts to insert and query data on a database.
 
-- Files: `insert_data.sh`, `queries.sh`, `worldcup.sql`, `games.csv`, `expected_output.txt`
+- Files: [insert_data.sh](./insert_data.sh) [queries.sh](./queries.sh) [worldcup.sql](./worldcup.sql) [games.csv](./games.csv) [expected_output.txt](./expected_output.txt)
 
 ## "Periodic Table Database"
 
 A database to manage by fixing it of some pre-determined issues and a script to query it.
 
-- Files: `periodic_table.sql` and `element.sh`
+- Files: [periodic_table.sql](./periodic_table.sql) and [element.sh](./element.sh)
 
 ## "Celestial Bodies Database"
 
 A simple database with relations between tables such as "galaxy, star, planet and moon." I admit that the numbers regarding distances between these celestial bodies are not particularly accurate.
 
-- Files: `universe.sql`
+- Files: [universe.sql](./universe.sql)
 
 ## "Salon Appointment Scheduler"
 
 | A script to determine 'real life' appointments in a database.
 
-- Files: `salon.sh` and `salon.sql`
+- Files: [salon.sh](./salon.sh) and [salon.sql](./salon.sql)
